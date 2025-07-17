@@ -77,9 +77,9 @@ An API service to cluster and visualize customer segments:
 
 ## 📫 Get in Touch
 
-- 📧 youremail@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio](https://ZubairShafi-dev.github.io)  
+- 📧 zubair38421@gmail.com 
+- 🔗 [LinkedIn](https://linkedin.com/in/zubairshafi)  
+- 🌐 [Portfolio]([https://ZubairShafi-dev.github.io](https://zubairportfolio11.vercel.app/))  
 
 ---
 
