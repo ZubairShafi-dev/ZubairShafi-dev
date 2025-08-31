@@ -52,3 +52,4 @@ I’m always open to discussing new opportunities, collaborations, or just talki
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
