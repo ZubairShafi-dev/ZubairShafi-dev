@@ -1,86 +1,54 @@
-# Hi there, I’m Zubair 👋
+# Hello, I'm Zubair Shafi 👋
 
-**Android Engineer | Kotlin • Jetpack Compose • Dart • Flutter • FastAPI**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Android%20Developer;ML%20on%20Mobile%20Enthusiast;Project%20Lead;Always%20Learning!" width="380" />
+</div>
 
-🔭 I’m currently building **Tudo Núm** – a service‑provider marketplace app  
-🌱 I have deep knowledge of **Full SDLC**, **Requirement Gathering**, and **SRS authoring**  
-💬 Ask me about Android, Flutter, or deploying ML models on mobile  
-⚡ Fun fact: I love optimizing UI animations and building clean, maintainable code
+**Android & Flutter Developer | Kotlin • Java • Jetpack Compose | Project Manager | ML on Mobile Enthusiast**
 
----
+I'm a **software engineer** with over **3.5 years** of experience designing and building high‑performance Android applications. I specialise in **Kotlin/Java**, **Jetpack libraries (Compose, Hilt, Room, WorkManager, Navigation)** and **Firebase**, and I enjoy leading cross‑functional teams to deliver scalable solutions.
 
-## 🛠 Tech Stack
+🚀 **What I’m working on:**  
+- **Tudo Núm** – a multi‑service super app with 25+ services, a unified wallet, loyalty rewards, an affiliate network and EU/GCC‑compliant invoicing. I’m leading Android feature development, implementing Clean Architecture and MVVM, integrating RESTful APIs, offline caching, and WorkManager‑based background tasks.  
+- Exploring **machine learning on mobile** – building apps like **Maize Disease Detector** and **Brain Tumor Detector** that leverage ML models and computer vision.  
+- Mentoring junior developers, writing technical documentation, and driving process improvements.
 
-- **Languages & Frameworks:**  
-  Kotlin · Java · **Dart** · **Flutter** · Python · FastAPI · Flask
+🎯 **Tech & Tools:**  
+- **Mobile:** Kotlin, Java, Jetpack Compose, Flutter (Dart), Android Jetpack, Dagger/Hilt, Retrofit & Moshi, Room, WorkManager, Navigation  
+- **Backend & APIs:** FastAPI (Python), Flask, Node.js, Firebase (Auth, Firestore, Functions, FCM), RESTful API design  
+- **AI/ML:** TensorFlow, PyTorch, scikit‑learn, ML Kit, Grad‑CAM  
+- **DevOps:** Docker, GitHub Actions, CI/CD, Heroku  
+- **Project Management:** Agile (Scrum/Kanban), Jira, Trello, SRS authoring, requirement gathering
 
-- **Mobile & Front‑End:**  
-  Jetpack Compose · Retrofit · Firebase · Flutter SDK · Material Design
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
 
-- **ML & Data:**  
-  scikit‑learn · TensorFlow · PyTorch · pandas
+💡 **Key Projects:**  
+- **Tudo Núm Super App:** Multi‑service marketplace with 25+ services, unified wallet, loyalty points, affiliate tree, booking/scheduling, offline cache, and FCM notifications.  
+- **AI Trust Ledger:** Investment app supporting plan‑based investing across sectors with secure deposits/withdrawals, referral system, real‑time transaction history, and push notifications.  
+- **Maize Disease Detector:** ML‑powered Android app to detect maize diseases early, helping farmers manage crops proactively.  
+- **Cric Dex:** Cricket analytics app providing real‑time match data, player stats, and insights via APIs.  
+- **Brain Tumor Detector:** CNN‑based model to classify MRI scans, deployed with a FastAPI backend and Swagger UI.
 
-- **Backend & DevOps:**  
-  Docker · GitHub Actions · Postman · RESTful APIs · CI/CD
+📫 **Get in Touch:**  
+I’m always open to discussing new opportunities, collaborations, or just talking about Android, Flutter or ML on mobile.  
+- **Email:** zubair38421@gmail.com  
+- **LinkedIn:** [linkedin.com/in/zubairshafi](https://www.linkedin.com/in/zubairshafi)  
+- **Portfolio:** [zubairportfolio11.vercel.app](https://zubairportfolio11.vercel.app)
 
-- **Project Management & Processes:**  
-  • Full SDLC (Waterfall & Agile)  
-  • Requirement Gathering & Analysis  
-  • SRS / Functional Specs Authoring  
-  • Agile (Scrum & Kanban) · JIRA · Trello
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=transparent" alt="Zubair's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZubairShafi-dev&theme=transparent" alt="Zubair's GitHub streak" />
+</p>
 
----
-
-## 📂 Featured Projects
-
-### [Tudo Núm Android](https://github.com/ZubairShafi-dev/tudonum-android)  
-A marketplace mobile app for service providers and customers, built with  
-- **Jetpack Compose** for modern, declarative UI  
-- **Hilt** for dependency injection  
-- **Retrofit + Moshi** for robust REST API integration  
-- **Firebase Auth & Firestore** for authentication and real-time data  
-![Tudo Núm Demo](./assets/tudonum-demo.gif)
-
----
-
-### [Brain Tumor Detector](https://github.com/ZubairShafi-dev/brain-tumor-dl)  
-A CNN‑based classifier that detects and categorizes brain tumors from MRI scans:  
-- **ResNet50** transfer‑learning backbone  
-- **Grad‑CAM** for visual explanations  
-- **FastAPI** deployment with Swagger UI for easy inference  
-- **Live demo** hosted on Heroku
-
----
-
-### [Flutter Chat App](https://github.com/ZubairShafi-dev/flutter-chat-app)  
-A real‑time chat application built with Flutter & Firebase:  
-- **Flutter SDK** and **Bloc** state management  
-- **Firebase Realtime Database** & **Cloud Messaging**  
-- Custom theming and adaptive layouts for iOS & Android  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 ---
-
-### [KMeans + PCA Clustering API](https://github.com/ZubairShafi-dev/fastapi-cluster)  
-An API service to cluster and visualize customer segments:  
-- **scikit‑learn** pipeline with `KMeans` + `PCA`  
-- **Dockerized** for reproducible deployments  
-- **GitHub Actions** to run tests on every push  
-
----
-
-## 📈 GitHub Stats & Badges
-
-![Zubair’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact)
-
----
-
-## 📫 Get in Touch
-
-- 📧 zubair38421@gmail.com 
-- 🔗 [LinkedIn](https://linkedin.com/in/zubairshafi)  
-- 🌐 [Portfolio]([https://ZubairShafi-dev.github.io](https://zubairportfolio11.vercel.app/))  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
