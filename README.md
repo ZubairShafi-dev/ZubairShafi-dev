@@ -1,126 +1,52 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c6ff,50:0072ff,100:6610f2&section=header&text=Zubair%20Shafi&fontSize=50&fontColor=fff&animation=fadeIn" alt="header"/>
-</p>
+# Hi, I'm Zubair Shafi 👋
 
-<h3 align="center"><em>🔦 Crafting intuitive mobile experiences across FinTech, HealthTech & EdTech</em></h3>
+**Sr. Android Developer**
 
----
+## 📌 Mission Statement
 
-## 🧐 About Me
+I craft robust, high‑performance Android apps with clean architecture, offline‑first flows and intuitive UX. Over the past three years, I've built and optimized scalable mobile solutions using **Kotlin/Java**, **Jetpack** (Room, WorkManager, Navigation), **MVVM**, **Clean Architecture** and **Dagger Hilt**, integrating RESTful APIs and Firebase to deliver reliable user experiences.
 
-```yaml
-name: Zubair Shafi
-role: Android & Flutter Developer
-learning: Self-taught, B.S. Software Engineering @ The University of Lahore
-location: Lahore, Pakistan (Asia/Karachi)
-languages: English, Urdu
-hobbies: Open source, blogging, reading
-```
+## ⚡ At a Glance
 
-- 🎓 **Education:** B.S. Software Engineering, **The University of Lahore** (2022‑present)
-- 🧐 **Self‑taught:** Learning through documentation, courses & building projects.
-- 🌍 **Goal:** Build impactful apps and collaborate with talented teams.
+- **Role:** Sr. Android Developer & Team Lead  
+- **Specialties:** Native Android development, Kotlin/Java, Jetpack Compose, MVVM, Clean Architecture  
+- **Tools:** Android Studio • Postman • Figma • GitHub  
+- **Languages:** Kotlin (9/10), Java (9/10), Compose (5/10), XML (9/10)  
+- **Soft skills:** Communication • Leadership • Problem solving  
+- **Spoken languages:** English • Urdu • Punjabi  
+- **Status:** Open to remote roles & collaborations  
+- **Location:** Zafrullah Chowk, Sgd (UTC+5)  
 
----
+## 🛠️ Skills & Tech Stack
 
-## 🚀 Tech Toolbox
+- **Android Development:** Kotlin & Java, Compose, XML, Jetpack (Room, WorkManager, Navigation)
+- **Architecture & Patterns:** MVVM, Clean Architecture, Dagger Hilt
+- **Backend & APIs:** RESTful APIs, Firebase
+- **UI/UX:** Mobile UI & UX design, responsive layouts
+- **Tools:** Android Studio, Postman for API testing, Figma for prototyping
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,java,figma,graphql,firebase,git,githubactions,docker" alt="Tech Stack" />
-</p>
+## 🧑‍💼 Work Experience
 
----
+- **TuduTechLab (Aug 2025 – Present)** – **Team Lead Android Developer (Remote)**  
+  Lead native app development using Kotlin and Java, drive cross‑functional collaboration to deliver high‑quality solutions, mentor developers and optimize performance across projects.
 
-## 🚀 What I Build
+- **WebsCare (Sep 2025 – Present)** – **Sr. Android Developer**  
+  Develop native Android apps in Kotlin and Java, collaborate with teams to deliver high‑quality solutions and mentor junior developers while optimizing performance.
 
-| Domain | Description |
-| ----- | ----------- |
-| **Productivity** | **Tudo Nüm** – Super‑app with tasks, reminders, analytics & offline sync |
-| **Docs** | **UrduDocs** – Markdown editor & translator for Urdu |
-| **Finance** | **Investment App** – Portfolio tracker connecting to exchange APIs |
-| **Sports & Education** | **ScoringBook** – Real‑time scoring & leaderboards |
+- **FutureTech (Jan 2025 – Aug 2025)** – **Sr. Android Developer**  
+  Led app development, optimized performance, collaborated cross‑functionally and mentored junior developers.
 
----
+- **Enfotrix (Aug 2022 – Jan 2025)** – **Android Developer**  
+  Developed 12 major Android apps and mentored interns and students in Android development.
 
-## 🌟 2025 Goals & Focus
+## 🎓 Education
 
-| Focus Area | Objective |
-| --- | --- |
-| **FinTech** | Craft secure, accessible financial tools |
-| **HealthTech** | Leverage Flutter & AI to improve healthcare |
-| **Education** | Mentor aspiring devs & contribute to open source |
-| **AI & ML** | Integrate on‑device ML in mobile apps |
+**Bachelor of Software Engineering (2021 – 2025)**  
+*University of Lahore*
 
----
+## 📫 Get in Touch
 
-## 🎰 Featured Projects
-
-<details>
-<summary><strong>🤖 Tudo Nüm</strong></summary>
-
-- 📝 Combine tasks, reminders, notes & analytics in one place
-- 📶 Offline‑first with real‑time sync & push notifications
-- 🎨 Modern UI built with Flutter & Firebase
-
-</details>
-
-<details>
-<summary><strong>📄 UrduDocs</strong></summary>
-
-- 🧒‍♀️ Write & translate Urdu Markdown seamlessly
-- 🛰 Built‑in Urdu keyboard & rich formatting
-- 💾 Offline caching & quick search
-
-</details>
-
-<details>
-<summary><strong>📈 Investment App</strong></summary>
-
-- 🔗 Connects to global exchanges via APIs
-- 📈 Visualize portfolios, charts & analytics
-- 🚨 Alerts & notifications for market movements
-
-</details>
-
-<details>
-<summary><strong>🏏 ScoringBook</strong></summary>
-
-- 🗓️ Live scoring for cricket, football & more
-- 📊 Leaderboards & match stats
-- 🌐 Online & offline modes with local database
-
-</details>
-
----
-
-## 🛾 Development Principles
-
-- **Privacy‑First:** Minimal permissions, respect user data.
-- **Clean Architecture:** Separate layers & maintainable code.
-- **Test Automation:** CI/CD with GitHub Actions & code quality tools.
-- **Community:** Share knowledge & grow together.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=react&hide_border=true" alt="stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairShafi-dev&theme=react&hide_border=true" alt="streak" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZubairShafi-dev&layout=compact&theme=react&hide_border=true&hide=jupyter%20notebook" alt="languages" width="45%"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-%20mailto:?style=flat&logo=gmail&logoColor=red)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6610f2,50:0072ff,100:00c6ff&section=footer" alt="footer"/>
-</p>
+- 📧 **Email:** [zubair38421@gmail.com](mailto:zubair38421@gmail.com)  
+- 📱 **Phone:** +92 302 1154242  
+- 📍 **Location:** Zafrullah Chowk, Sgd, Pakistan  
+- 🌐 **GitHub:** [ZubairShafi‑dev](https://github.com/ZubairShafi-dev)
