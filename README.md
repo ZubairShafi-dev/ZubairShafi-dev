@@ -1,56 +1,133 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:405DE6,50:5851DB,100:833AB4&text=Zubair%20Shafi&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4e54c8,50:8f94fb,100:a7bfe8&section=header&text=Zubair%20Shafi&fontSize=50&fontColor=fff&animation=twinkling" alt="header" />
 </p>
 
-<h2 align="center">Self‑Taught Android & Flutter Developer</h2>
-
+<h2 align="center"><a href="https://github.com/ZubairShafi-dev">Hi there, I’m Zubair!</a></h2>
 <p align="center">
-  Passionate about building performant and beautiful mobile applications using modern technologies.<br>
-  Based in Lahore, Pakistan (UTC+5)
-</p>
-
----
-
-### 🎓 Education
-
-- **B.S. Software Engineering, The University of Lahore** (2022–present)
-- **Self‑learning**: Constantly upskilling in Android, Flutter, and AI through online courses, documentation, and personal projects.
-
-### 🚠️ Skills & Tools
-
-- **Languages & Frameworks:** Kotlin, Java, Dart, Flutter, Jetpack Compose
-- **Mobile:** Android SDK, Material Design, MVVM, Hilt, WorkManager
-- **Backend & Databases:** Firebase, REST APIs, GraphQL, SQLite
-- **DevOps & Tools:** Git, GitHub Actions, Docker, VS Code, Figma
-
-### 💼 Projects
-
-- **Tudo Nüm** – Multi-service super app featuring 25+ services, loyalty rewards, and offline support.
-- **UrduDocs** – Documentation tool for Urdu language projects (private).
-- **Investment_App**, **ScoringBook**, and more – Explore my repositories to see what I'm working on.
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZubairShafi-dev&theme=tokyonight" width="44%"/>
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=ZubairShafi-dev&theme=tokyonight&hide_border=true" width="44%"/>
+  Android & Flutter developer crafting intuitive experiences.<br>
+  Self‑taught, currently studying at <strong>The University of Lahore</strong>.<br>
+  🌍 Based in Lahore, Pakistan (Asia/Karachi).
 </p>
 
 ---
 
-### 🔭 What I'm Looking For
+### 📋 About Me
+A self‑motivated software engineer pursuing a B.S. in Software Engineering at **The University of Lahore** (2022‑present). I enjoy building mobile applications from scratch, exploring cloud services, and learning by doing. I believe in privacy‑first design, clean architecture and automation.
 
-- Challenging Android/Flutter roles in fintech, health tech, and productivity apps.
-- Remote or hybrid opportunities with teams that value craftsmanship and user experience.
+<details>
+<summary><strong>At a Glance</strong></summary>
 
-### 📬 Contact
+```yaml
+name: Zubair Shafi
+role: Android & Flutter Developer
+learning: Self‑taught, no bootcamps
+location: Lahore, Pakistan
+university: The University of Lahore
+current_focus: Healthtech • FinTech • EdTech
+looking_for: Internship / Entry‑level roles & collaborations
+```
+</details>
 
-Feel free to reach out via email: `your-email@example.com` (replace with your contact).
+---
+
+### 🧠 Skills & Tools
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-4AB197?style=for-the-badge&logo=rest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### 🔨 What I Build
+
+| Domain         | Projects & Focus |
+| -------------- | --------------- |
+| **Productivity & Tools** | **Tudo Nüm** – A super‑app that merges task planning with reminders, analytics, and offline support. |
+| **Documentation** | **UrduDocs** – A Markdown editor and translator tailored for Urdu language documents. |
+| **Finance** | **Investment App** – Tracks portfolios, integrates trading APIs, and visualizes market data. |
+| **Education** | **ScoringBook** – A sports scoring tool with live commentary, offline mode, and leaderboards. |
+
+---
+
+### 🌱 2025 Goals & Focus
+
+| Goal                   | Description                                 |
+| ---------------------- | ------------------------------------------- |
+| **FinTech Innovation** | Build secure, accessible fintech solutions. |
+| **Healthtech Apps**    | Use Flutter & AI to create health apps.    |
+| **Teaching & Mentoring** | Mentor juniors & contribute to open source. |
+| **AI Integration**     | Explore ML kits in mobile applications.     |
+
+---
+
+### 📚 Featured Projects
+
+<details>
+<summary><strong>Tudo Nüm</strong></summary>
+
+A multipurpose productivity app combining task management, reminders, analytics, offline sync and modern UI design. Built with Flutter, Firebase, and local persistence.
+
+</details>
+
+<details>
+<summary><strong>UrduDocs</strong></summary>
+
+Open‑source Markdown editor & translator for writing Urdu documents. Supports Urdu keyboard, text formatting, and one‑click translation with local caching.
+
+</details>
+
+<details>
+<summary><strong>Investment App</strong></summary>
+
+An all‑in‑one investment tracker connecting to global exchanges via APIs, providing charts, portfolio analytics, and notifications. Backend built with GraphQL, frontend with Flutter.
+
+</details>
+
+<details>
+<summary><strong>ScoringBook</strong></summary>
+
+Mobile scoring app for cricket, football & more with live commentary, offline support, and intuitive design. Utilizes real‑time database and push notifications.
+
+</details>
+
+---
+
+### 🤔 Development Philosophy
+- **Privacy First:** Respect user data & minimize permissions.
+- **Clean Architecture:** Modular code, testable and scalable.
+- **Automation:** Continuous integration & deployment via GitHub Actions.
+- **Community:** Contribute to open-source and share knowledge.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=github_dark" alt="Zubair's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact&theme=github_dark&hide=jupyter%20notebook" alt="Top languages" width="45%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm looking for internships or collaborations. Feel free to reach out!
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Telegram:** @yourhandle
 
 ---
 
 <p align="center">
-  <em>“The beautiful thing about learning is that nobody can take it away from you.”</em><br>
-  — B.B. King
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8f94fb,50:a7bfe8,100:91eac4&section=footer" alt="footer" />
 </p>
