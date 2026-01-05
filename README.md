@@ -1,163 +1,92 @@
-<!-- Header -->
+# Hi there, I'm Zabi 👋
+
+<!--
+This README uses a dark‑theme aesthetic with a light/dark banner and dynamic sections.
+The `<picture>` element will switch between dark and light banners based on the reader’s
+preferred color scheme.  GitHub currently supports this syntax.  Feel free
+ to modify the assets in the `assets/` directory or replace them with your own images.
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:05c7a7,50:2c3e50,100:007fff&section=header&text=Zubair%20Shafi&fontSize=45&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <picture>
+    <!-- Dark mode banner -->
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <!-- Light mode fallback -->
+    <img alt="Banner" src="./assets/banner-light.png" />
+  </picture>
+</p>
+
+## About Me
+
+I’m **Zubair “Zabi” Shafi**, a senior Android app developer based in Lahore, Pakistan.
+With extensive experience in building robust mobile applications, I specialize in Kotlin,
+Java and Jetpack Compose, and I have a passion for crafting beautiful, intuitive user
+interfaces.  When I’m not writing Android code, you’ll find me exploring cross‑platform
+technologies like Flutter and experimenting with modern backend frameworks.
+
+## 🛠 Tech Stack
+
+Here are some of the tools and technologies I work with regularly:
+
+- **Languages:** Kotlin, Java, Dart, JavaScript, Python
+- **Frameworks/Libraries:** Jetpack Compose, Android Jetpack, Flutter, React Native
+- **Tools & IDEs:** Android Studio, VS Code, Gradle, Git
+- **Cloud & DevOps:** Firebase, Google Cloud, GitHub Actions, Docker
+
+You can tell I enjoy working across the full development lifecycle — from ideation and UI
+design through deployment and CI/CD.
+
+## ✨ Featured Projects
+
+Here are a few projects I’ve been working on recently:
+
+| Project | Description |
+| --- | --- |
+| **[UrduDocs](https://github.com/ZubairShafi-dev/urdudocs)** | A multilingual document viewer and learning app with support for Urdu texts and transliterations. |
+| **[Snore App](https://github.com/ZubairShafi-dev/Snore_App)** | An AI‑powered sleep monitoring app that detects snoring patterns and visualizes sleep data. |
+| **[To‑Do Num](https://github.com/ZubairShafi-dev/tudo-num)** | A minimal, voice‑controlled to‑do list with offline support and dynamic theming. |
+| **[Philippine Stock Exchange](https://github.com/ZubairShafi-dev/Philippine_Stock_Exchange)** | A React Native app that fetches and charts stock prices from the PSE API with real‑time updates. |
+
+Feel free to explore the repositories above for source code, screenshots and detailed documentation.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=radical"
+    alt="Zabi's GitHub Stats"
+    width="47%" />
+  <!-- GitHub Streak Card -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairShafi-dev&theme=tokyonight"
+    alt="Zabi's GitHub Streak"
+    width="47%" />
 </p>
 
 <p align="center">
-  <em>On-device AI + Offline-first Experiences</em>
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact&theme=radical&langs_count=6"
+    alt="Top Languages"
+    width="47%" />
 </p>
 
-<!-- Tech & Follow Badges -->
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dagger_Hilt-7952B3?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/></a>
-</p>
+> 💡 **Tip:** The stats above automatically update, so no need to refresh your README manually.  These cards support a variety of themes and configurations — see
+> the [github‑readme‑stats documentation](https://github.com/anuraghazra/github-readme-stats#themes) for more options.
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/ZubairShafi-dev?tab=followers"><img src="https://img.shields.io/github/followers/ZubairShafi-dev?style=social" alt="Followers"/></a>
-  <a href="mailto:zubair38421@gmail.com"><img src="https://img.shields.io/badge/Email-zubair38421@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ZubairShafi-dev"><img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ZubairShafi-dev"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
-</p>
+## 🎮 Fun Stuff
 
-### 📌 Mission Statement
+- When I’m not coding, I’m either learning new languages (human *and* programming) or experimenting with microcontroller projects.
+- I love contributing to open source and learning from the global dev community.
+- I’m always open to collaboration and mentorship — feel free to reach out if you’d like to work together!
 
-I craft robust, production-ready Android applications with clean architecture, offline-first flows and intuitive UX. Over the past three years I’ve built and optimised scalable mobile solutions using **Kotlin/Java**, **Jetpack** (Room, WorkManager, Navigation), **MVVM**, **Clean Architecture** and **Dagger Hilt**, integrating RESTful APIs and Firebase to deliver reliable user experiences.
+## 📳 Contact Me
 
-### ⚡ At a Glance
+You can reach me via:
 
-```yaml
-role: Sr. Android Developer & Team Lead
-specialties:
-  - Native Android with Compose & MVVM
-  - Clean Architecture & Dagger Hilt
-  - Offline-first & real-time experiences
-domains: [FinTech, HealthTech, Ag-Tech, EdTech, Productivity]
-status: Open to remote roles & collaborations
-location: Lahore, Pakistan (UTC+5)
-```
+- **Email:** zabi@example.com
+- **LinkedIn:** [linkedin.com/in/zubair-shafi](https://www.linkedin.com/in/zubair-shafi)  
+- **Twitter:** [@zabidev](https://twitter.com/zabidev)
 
-### 🛠️ What I Do
-
-|                 | Product-grade Android | Flutter & Cross-platform | Edge AI & FinTech |
-|-----------------|-----------------------|-------------------------|-------------------|
-| **Tech**        | 🟩 Android            | 🎯 Flutter              | 🤖 AI/ML         |
-| **Stack**       | Compose · M3 · MVVM · Room · Retrofit · Hilt | Flutter 3 · Riverpod/Provider · Responsive UI | TFLite · ML Kit · Cloud Functions · APIs |
-| **Focus**       | Robust apps with clean layers, solid navigation, theming & smooth performance | Shared codebases where Android + iOS parity is crucial | AI-native flows, ledgers & real-time decision support |
-
-### 🚀 Flagship Products
-
-- **LeafBloom** — Offline tomato leaf disease diagnosis  
-- **Medicare** — Tele-health & pharmacy platform  
-- **Smart Ambulance** — Real-time dispatch system  
-- **AI Trust Ledger** — Decentralised investing ledger  
-- **Learnify** — Offline-friendly learning platform  
-
-### 🎯 2025 Focus Areas
-
-| Domain | Focus |
-|--------|-------|
-| 💸 FinTech / Crypto | Trading suites, ledgers & staking tools |
-| 🏥 Health & Rescue | Tele-health, ambulance systems, diagnostics & patient-centric flows |
-| 🌾 Ag-Tech | Decision support apps for farmers & field workers |
-| 📚 EdTech & Productivity | Offline-friendly learning & productivity apps |
-| 🤖 AI-native UX | Natural AI experiences that feel integrated, not bolted-on gimmicks |
-
-### 🧰 Tech Stack
-
-**Languages & Frameworks**  
-<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-
-**Backend & Database**  
-<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Room-6DA56C?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-
-**DevOps & Tools**  
-<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Fastlane-FF3366?style=for-the-badge&logo=fastlane&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-
-```kotlin
-val dailyDriver = TechStack(
-  languages = listOf("Kotlin", "Java"),
-  frameworks = listOf("Jetpack Compose", "Flutter", "MVVM"),
-  concurrency = listOf("Coroutines", "Flow"),
-  storage = listOf("Room", "SQLite", "Firestore"),
-  networking = listOf("Retrofit", "REST APIs"),
-  di = listOf("Hilt"),
-  ml = listOf("TFLite", "PyTorch", "ML Kit"),
-  cloud = listOf("Firebase", "Supabase", "Cloud Functions"),
-  payments = listOf("Stripe", "Razorpay"),
-  cicd = listOf("GitHub Actions", "Fastlane")
-)
-```
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZubairShafi-dev&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🧱 Development Philosophy
-
-| Principle | Implementation |
-|-----------|---------------|
-| **Product > Prototype** | Real flows: onboarding, empty/error states, logging & analytics |
-| **Offline-first** | Room/caching & graceful sync are defaults, not after-thoughts |
-| **Privacy & Edge ML** | Keep data & inference on device whenever possible |
-| **Clean Architecture** | MVVM, clear boundaries, testable layers |
-| **Automation** | GitHub Actions & Fastlane for builds, checks & releases |
-| **Design-driven** | Figma → Compose/Flutter, theming & micro-animations |
-
-### 🎓 Education & Growth
-
-| Period | Role / Education | Organisation | Location |
-|-------|-----------------|-------------|-----------|
-| **2021 – 2025** | B.S. Software Engineering | University of Lahore | Lahore, Pakistan |
-| **Aug 2022 – Jan 2025** | Android Developer | Enfotrix | Remote |
-| **Jan 2025 – Aug 2025** | Sr. Android Developer | FutureTech | Remote |
-| **Sep 2025 – Present** | Sr. Android Developer | WebsCare | Lahore, Pakistan |
-| **Aug 2025 – Present** | Team Lead Android Developer | TuduTechLab | Remote |
-| **Continuous** | Deepening expertise in Compose • KMP • Clean Architecture • On-device ML | Self-study | - |
-
-### 🔍 What I'm Looking For
-
-| Looking For | Description |
-|-------------|-------------|
-| 🎯 Roles | Senior Android / Team Lead roles in FinTech, HealthTech, Ag-Tech or EdTech |
-| 💡 Teams | Product-minded teams that care about DX, UX, privacy & performance |
-| 🤝 Collaborations | Projects where offline-first & localisation truly matter |
-| 🌍 Opportunities | Remote / hybrid engagements with impact |
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:zubair38421@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://api.whatsapp.com/send?phone=923021154242"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ZubairShafi-dev"><img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-📍 Zafrullah Chowk, Sgd, Pakistan • Open to remote/hybrid opportunities
-</p>
-
-### 💡 Philosophy
-
-> *“First, solve the problem. Then, write the code.” — John Johnson*
-
-<p align="center">
-⭐ If you like what you see, feel free to drop a star on my repos!
-</p>
+Thanks for stopping by and checking out my work! ☺
