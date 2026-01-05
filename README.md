@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer+%F0%9F%93%B1;FinTech+%7C+HealthTech+%7C+EdTech+%7C+AgTech;On-device+AI+%2B+Offline-first+Experiences;Building+Production-Ready+Mobile+Products"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer+%F0%9F%93%B1;Utility+Apps+%7C+Productivity+Tools+%7C+EdTech;On-device+AI+%2B+Offline-first+Experiences;Building+Production-Ready+Mobile+Products"/>
 </p>
 
 <div align="center">
@@ -140,10 +140,10 @@ location: Lahore, Pakistan (UTC+5)
 
 | Domain | Focus |
 | :-----: | :---- |
-| **FinTech / Crypto** | Trading suites, ledgers, staking tools & credit/ROI dashboards |
-| **Health & Rescue** | Tele-health, ambulance systems, diagnostics & patient-centric flows |
-| **EdTech & Productivity** | Learning platforms, note taking & productivity tools |
-| **AI‑native UX** | Features that feel natural in the UX, not bolted‑on gimmicks |
+| **Utility & Productivity** | Tools for daily tasks, note taking & scheduling |
+| **Health & Wellness** | Sleep monitoring & wellness features |
+| **Finance & Business** | FinTech apps & transaction tracking |
+| **Education & Learning** | Learning platforms, document viewers & translation |
 
 </div>
 
