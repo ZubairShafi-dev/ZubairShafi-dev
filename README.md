@@ -1,10 +1,10 @@
-# Hi there, I'm Zabi 👋
+# Hi there, I'm Zabi 👋
 
 <!--
 This README uses a dark‑theme aesthetic with a light/dark banner and dynamic sections.
 The `<picture>` element will switch between dark and light banners based on the reader’s
-preferred color scheme.  GitHub currently supports this syntax.  Feel free
- to modify the assets in the `assets/` directory or replace them with your own images.
+preferred color scheme.  GitHub currently supports this syntax【900122833949546†L60-L67】.  Feel free
+to modify the assets in the `assets/` directory or replace them with your own images.
 -->
 
 <p align="center">
@@ -18,7 +18,7 @@ preferred color scheme.  GitHub currently supports this syntax.  Feel free
 
 ## About Me
 
-I’m **Zubair “Zabi” Shafi**, a senior Android app developer based in Lahore, Pakistan.
+I’m **Zubair “Zabi” Shafi**, a senior Android app developer based in Lahore, Pakistan. 
 With extensive experience in building robust mobile applications, I specialize in Kotlin,
 Java and Jetpack Compose, and I have a passion for crafting beautiful, intuitive user
 interfaces.  When I’m not writing Android code, you’ll find me exploring cross‑platform
@@ -52,6 +52,10 @@ Feel free to explore the repositories above for source code, screenshots and det
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./assets/zubair-githubstats-banner.png" alt="Zubair GitHub Stats Banner" />
+</p>
+
+<p align="center">
   <!-- GitHub Stats Card -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=radical"
@@ -75,13 +79,29 @@ Feel free to explore the repositories above for source code, screenshots and det
 > 💡 **Tip:** The stats above automatically update, so no need to refresh your README manually.  These cards support a variety of themes and configurations — see
 > the [github‑readme‑stats documentation](https://github.com/anuraghazra/github-readme-stats#themes) for more options.
 
-## 🎮 Fun Stuff
+## 🏆 Achievements & Experience
+
+<p align="center">
+  <img src="./assets/zubair-achievements-banner.png" alt="Zubair Achievements Banner" />
+</p>
+
+Here are some highlights from my professional journey presented as concise experience cards:
+
+| Company | Highlights |
+| --- | --- |
+| **Enfotrix Pvt Ltd** | Worked with this Sargodha‑based software house founded in 2018 focusing on web, mobile, game and graphic design projects, delivering numerous national and international projects【336079409210835†L31-L39】. |
+| **Appverse Technologies** | Contributed to building mobile apps, websites and custom software that help businesses grow and succeed in today’s digital world【190348501578966†L40-L44】. |
+| **Future Technology** | Collaborated with this high‑tech solutions provider in Pakistan that focuses on cutting‑edge information technologies to deliver effective information management solutions【191045014659745†L40-L44】. |
+| **WebsCare** | Engaged with one of Pakistan’s top digital marketing agencies offering A‑to‑Z digital solutions for businesses【638953486027850†L80-L84】. |
+| **Tudutech Lab** | Participated in innovative projects and research initiatives aimed at driving technological innovation. |
+
+## 🎬 Fun Stuff
 
 - When I’m not coding, I’m either learning new languages (human *and* programming) or experimenting with microcontroller projects.
 - I love contributing to open source and learning from the global dev community.
 - I’m always open to collaboration and mentorship — feel free to reach out if you’d like to work together!
 
-## 📳 Contact Me
+## 📫 Contact Me
 
 You can reach me via:
 
@@ -89,4 +109,4 @@ You can reach me via:
 - **LinkedIn:** [linkedin.com/in/zubair-shafi](https://www.linkedin.com/in/zubair-shafi)  
 - **Twitter:** [@zabidev](https://twitter.com/zabidev)
 
-Thanks for stopping by and checking out my work! ☺
+Thanks for stopping by and checking out my work! 😊
