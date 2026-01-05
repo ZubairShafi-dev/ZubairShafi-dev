@@ -1,112 +1,229 @@
-# Hi there, I'm Zabi 👋
-
-<!--
-This README uses a dark‑theme aesthetic with a light/dark banner and dynamic sections.
-The `<picture>` element will switch between dark and light banners based on the reader’s
-preferred color scheme.  GitHub currently supports this syntax【900122833949546†L60-L67】.  Feel free
-to modify the assets in the `assets/` directory or replace them with your own images.
--->
+<!--  Midnight Gradient Header Portfolio -->
 
 <p align="center">
-  <picture>
-    <!-- Dark mode banner -->
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-    <!-- Light mode fallback -->
-    <img alt="Banner" src="./assets/banner-light.png" />
-  </picture>
-</p>
-
-## About Me
-
-I’m **Zubair “Zabi” Shafi**, a senior Android app developer based in Lahore, Pakistan. 
-With extensive experience in building robust mobile applications, I specialize in Kotlin,
-Java and Jetpack Compose, and I have a passion for crafting beautiful, intuitive user
-interfaces.  When I’m not writing Android code, you’ll find me exploring cross‑platform
-technologies like Flutter and experimenting with modern backend frameworks.
-
-## 🛠 Tech Stack
-
-Here are some of the tools and technologies I work with regularly:
-
-- **Languages:** Kotlin, Java, Dart, JavaScript, Python
-- **Frameworks/Libraries:** Jetpack Compose, Android Jetpack, Flutter, React Native
-- **Tools & IDEs:** Android Studio, VS Code, Gradle, Git
-- **Cloud & DevOps:** Firebase, Google Cloud, GitHub Actions, Docker
-
-You can tell I enjoy working across the full development lifecycle — from ideation and UI
-design through deployment and CI/CD.
-
-## ✨ Featured Projects
-
-Here are a few projects I’ve been working on recently:
-
-| Project | Description |
-| --- | --- |
-| **[UrduDocs](https://github.com/ZubairShafi-dev/urdudocs)** | A multilingual document viewer and learning app with support for Urdu texts and transliterations. |
-| **[Snore App](https://github.com/ZubairShafi-dev/Snore_App)** | An AI‑powered sleep monitoring app that detects snoring patterns and visualizes sleep data. |
-| **[To‑Do Num](https://github.com/ZubairShafi-dev/tudo-num)** | A minimal, voice‑controlled to‑do list with offline support and dynamic theming. |
-| **[Philippine Stock Exchange](https://github.com/ZubairShafi-dev/Philippine_Stock_Exchange)** | A React Native app that fetches and charts stock prices from the PSE API with real‑time updates. |
-
-Feel free to explore the repositories above for source code, screenshots and detailed documentation.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./assets/zubair-githubstats-banner.png" alt="Zubair GitHub Stats Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Zubair%20Shafi&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZubairShafi-dev&show_icons=true&theme=radical"
-    alt="Zabi's GitHub Stats"
-    width="47%" />
-  <!-- GitHub Streak Card -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairShafi-dev&theme=tokyonight"
-    alt="Zabi's GitHub Streak"
-    width="47%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer+%F0%9F%93%B1;FinTech+%7C+HealthTech+%7C+EdTech+%7C+AgTech;On-device+AI+%2B+Offline-first+Experiences;Building+Production-Ready+Mobile+Products"/>
+</p>
+
+<div align="center">
+
+### Mission Statement
+
+I craft opinionated, production-ready Android & Flutter products across finance, healthcare, education and productivity — with clean architecture, offline-first flows and on-device machine learning.
+
+</div>
+
+<br/>
+
+<!--  Core Stack Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI"/>
+</p>
+
+<!--  Social & Meta -->
+<p align="center">
+  <a href="https://github.com/ZubairShafi-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZubairShafi-dev?label=Followers&style=for-the-badge&color=7F52FF&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ZubairShafi-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ZubairShafi-dev&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=4285F4&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:zabi@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-00E7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zubair-shafi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-02569B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/zabidev">
+    <img src="https://img.shields.io/badge/Twitter-Follow-FF6F00?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<!--  Divider GIF -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## ⚡ At a Glance
+
+```yaml
+role: Senior Android & Flutter Engineer
+specialties:
+  - Kotlin & Jetpack Compose for Android
+  - Flutter for cross‑platform mobile
+  - On-device AI (TFLite, PyTorch) & offline-first experiences
+domains: [FinTech, HealthTech, EdTech, Productivity]
+status: Open to remote roles, freelance gigs & product collabs
+location: Lahore, Pakistan (UTC+5)
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+##  What I Do
+
+<div align="center">
+
+| **Product‑grade Android** | **Cross‑platform & Flutter** | **Edge AI & FinTech** |
+| :-------------------------: | :----------------------------------: | :--------------------------: |
+| ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| Compose · M3 · MVVM  •  Room · Retrofit · Hilt | Flutter 3 · Riverpod/Provider • Responsive UI | TFLite · ML Kit • Cloud Functions · APIs |
+| Robust apps with clean layers, solid navigation, theming & smooth performance | Shared codebases where Android & iOS parity is crucial | AI‑native flows, ledgers, staking tools & real‑time decision support directly in the app |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+##  Flagship Products
+
+> A few things that represent how I build. See the repos section for more.
+
+<br/>
+
+<details>
+<summary><b>UrduDocs</b> — Multilingual document viewer & learning app</summary>
+<br/>
+* Multilingual document viewer with support for Urdu texts & transliterations
+* AI‑powered reading assistance & offline support
+* **Stack:** Flutter · Firebase · AI Models
+</details>
+
+<details>
+<summary><b>Snore App</b> — AI‑powered sleep monitoring</summary>
+<br/>
+* Detects snoring patterns & visualises sleep data
+* Uses on-device ML for real‑time analysis
+* **Stack:** Kotlin · Jetpack Compose · TFLite · Room
+</details>
+
+<details>
+<summary><b>To-Do Num</b> — Voice‑controlled to‑do list</summary>
+<br/>
+* Minimal to‑do list with offline sync & dynamic theming
+* Voice input & natural language recognition
+* **Stack:** Flutter · Riverpod · Firebase
+</details>
+
+<details>
+<summary><b>Philippine Stock Exchange</b> — Stock price tracker</summary>
+<br/>
+* Fetches & charts stock prices from the PSE API in real‑time
+* Responsive charts & offline caching
+* **Stack:** React Native · Recharts · Axios
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+##  Focus Areas (2026)
+
+<div align="center">
+
+| Domain | Focus |
+| :-----: | :---- |
+| **FinTech / Crypto** | Trading suites, ledgers, staking tools & credit/ROI dashboards |
+| **Health & Rescue** | Tele-health, ambulance systems, diagnostics & patient-centric flows |
+| **EdTech & Productivity** | Learning platforms, note taking & productivity tools |
+| **AI‑native UX** | Features that feel natural in the UX, not bolted‑on gimmicks |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+##  Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio&theme=dark" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=firebase,graphql,supabase,tensorflow,sqlite,postgres&theme=dark" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,vscode,figma,postman,aws,gcp&theme=dark" />
+
+</div>
+
+<div align="center">
+
+```kotlin
+val techStack = TechStack(
+    languages = listOf("Kotlin", "Java", "Dart"),
+    frameworks = listOf("Jetpack Compose", "Flutter", "MVVM"),
+    async = listOf("Coroutines", "Flow"),
+    storage = listOf("Room", "SQLite", "Firestore"),
+    networking = listOf("Retrofit", "GraphQL", "REST APIs"),
+    di = listOf("Hilt", "Koin"),
+    ml = listOf("TFLite", "PyTorch", "ML Kit"),
+    cloud = listOf("Firebase", "Supabase", "Cloud Functions"),
+    payments = listOf("Stripe", "Razorpay"),
+    cicd = listOf("GitHub Actions", "Fastlane")
+)
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+##  GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZubairShafi-dev&theme=tokyonight" width="44%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZubairShafi-dev&theme=tokyonight" width="44%"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairShafi-dev&layout=compact&theme=radical&langs_count=6"
-    alt="Top Languages"
-    width="47%" />
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=ZubairShafi-dev&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
-
-> 💡 **Tip:** The stats above automatically update, so no need to refresh your README manually.  These cards support a variety of themes and configurations — see
-> the [github‑readme‑stats documentation](https://github.com/anuraghazra/github-readme-stats#themes) for more options.
-
-## 🏆 Achievements & Experience
 
 <p align="center">
-  <img src="./assets/zubair-achievements-banner.png" alt="Zubair Achievements Banner" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZubairShafi-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="90%"/>
 </p>
 
-Here are some highlights from my professional journey presented as concise experience cards:
+<br/>
 
-| Company | Highlights |
-| --- | --- |
-| **Enfotrix Pvt Ltd** | Worked with this Sargodha‑based software house founded in 2018 focusing on web, mobile, game and graphic design projects, delivering numerous national and international projects【336079409210835†L31-L39】. |
-| **Appverse Technologies** | Contributed to building mobile apps, websites and custom software that help businesses grow and succeed in today’s digital world【190348501578966†L40-L44】. |
-| **Future Technology** | Collaborated with this high‑tech solutions provider in Pakistan that focuses on cutting‑edge information technologies to deliver effective information management solutions【191045014659745†L40-L44】. |
-| **WebsCare** | Engaged with one of Pakistan’s top digital marketing agencies offering A‑to‑Z digital solutions for businesses【638953486027850†L80-L84】. |
-| **Tudutech Lab** | Participated in innovative projects and research initiatives aimed at driving technological innovation. |
+##  Development Philosophy
 
-## 🎬 Fun Stuff
+<div align="center">
 
-- When I’m not coding, I’m either learning new languages (human *and* programming) or experimenting with microcontroller projects.
-- I love contributing to open source and learning from the global dev community.
-- I’m always open to collaboration and mentorship — feel free to reach out if you’d like to work together!
+| Principle | Implementation |
+| :------ | :------------- |
+| **Product > Prototype** | Real flows: onboarding, empty & error states, logging & analytics |
+| **Offline-first** | Room / caching & graceful sync are default, never afterthoughts |
+| **Clean architecture** | Separation of concerns, testable modules & consistent layering |
+| **Great UX** | Adaptive design, accessibility & performance as first-class citizens |
+| **Continuous learning** | Embrace new frameworks, languages & patterns for growth |
 
-## 📫 Contact Me
+</div>
 
-You can reach me via:
+<br/>
 
-- **Email:** zabi@example.com
-- **LinkedIn:** [linkedin.com/in/zubair-shafi](https://www.linkedin.com/in/zubair-shafi)  
-- **Twitter:** [@zabidev](https://twitter.com/zabidev)
-
-Thanks for stopping by and checking out my work! 😊
+Thanks for visiting! 🚀
